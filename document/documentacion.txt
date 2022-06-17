@@ -1,0 +1,18 @@
+*****Estructura de archivos / FileSystem del proyecto*****
+https://es.reactjs.org/docs/faq-structure.html
+https://hackernoon.com/structuring-projects-and-naming-components-in-react-1261b6e18d76
+
+*****Docs*****
+https://reactjs.org/docs/strict-mode.html
+
+https://www.npmjs.com/package/http-server
+http-server -o
+
+https://app.netlify.com/teams/maerskoww/overview
+
+
+*****Información del github*****
+git init
+git add .
+git commit -m "Primer commit"
+git checkout -- .
